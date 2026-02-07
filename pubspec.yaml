@@ -8,8 +8,8 @@ environment:
 
 dependencies:
   test: any
-  collection: ^1.15.0
+  collection: any
 
 dev_dependencies:
-  http: ^1.1.0
-  pedantic: ^1.11.0
+  http: any
+  pedantic: any
